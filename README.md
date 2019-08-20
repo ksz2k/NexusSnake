@@ -7,4 +7,4 @@ Snake logic is inspired by [@aholachek](https://codepen.io/aholachek/pen/pwRNMX)
 ## Build instructions
 
 * `yarn` to install dependencies, and then 
-* `yarn build` in project's root to build it.
+* `yarn build` to build it.
