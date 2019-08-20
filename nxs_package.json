@@ -1,0 +1,22 @@
+{
+  "name": "nexus_snake",
+  "displayName": "Nexus Snake",
+  "version": "0.1.0",
+  "specVersion": "0.1.0",
+  "description": "Snake game module for Nexus Wallet",
+  "type": "app",
+  "entry": "index.html",
+  "files": [
+    "index.html", 
+    "dist/js/app.js",
+    "images/icon.png",
+    "images/food1_32.png",
+    "images/snake1_32.png", 
+    "images/food1_10.png", 
+    "images/snake1_10.png"
+   ],
+  "author": {
+    "name": "ksz2k",
+    "email": "ksz2k@pm.me"
+  }
+}
